@@ -1,0 +1,117 @@
+body{text-align: left;
+  color:#00004d;
+  background-color: #ffffe6;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+span{
+  height: 50px;
+  width: 100px;
+  background:darkgreen;
+  display: inline;
+  float: left;
+  /*dsplay: Try block and inline block
+  /*float*/
+}
+header{text-align:center;
+  color:#00004d;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  background-color: #FFBB33;
+  line-height: 2;
+
+}
+title{text-align:center;
+  color:#00004d;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  background-color: #FFBB33;
+  line-height: 2;
+
+}
+
+p{style align: center;
+margin:auto;
+}
+div{
+  height: 100px;
+  width:33%;
+  background:#00ffff;
+  display: inline;
+  margin: auto;
+  /*display:; */
+  /*float:;*/
+}
+
+
+h1{text-align:center;
+  color:#00004d;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  background-color: #FFBB33;
+  line-height: 2;
+}
+h3{
+  text-align:center;
+}
+title{text-align:center;
+  color:#00004d;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  background-color: #FFBB33;
+  line-height: 2;
+}
+
+p{
+  background: #ffffe6
+  height: 100px;
+  line-height: 2;
+}
+nav{
+line-height: 2
+}
+a{ text-align: left; 
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: "blue"; 
+  text-transform: uppercase;
+  line-height: 1.5;
+}
+img{
+  align-self: center;
+  display: inline-block;
+
+}
+
+.center {
+  display:inline-block;
+  margin-left:auto;
+  margin-right:auto;
+  width:20%;
+}
+iframe{
+  display: inline-block;
+}
+table{
+  border-style:solid; 
+            border-width:3px; 
+            border-color:#333333; 
+            padding:10px;
+            margin:auto;
+}
+q{
+  font-style: italic;
+  color:#00004d;
+   line-height: 2;
+}
+label{
+  background-color: #ffffe6;
+}
+progress{
+  background-color: #ffffe6;
+}
+audio{
+  align-content:center;
+}
+.audio-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;}
