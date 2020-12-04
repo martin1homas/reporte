@@ -1,0 +1,28 @@
+body{text-align: left;
+	color:#000000;
+	background-color: orange;
+font-family: Cursive;
+}
+span{
+	height: 50px;
+	width: 100px;
+	background:darkgreen;
+	display: inline;
+	float: left;
+	/*dsplay: Try block and inline block
+	/*float*/
+}
+p{style align: center;}
+div{
+	height: 100px;
+	width:33%;
+	background:#00ffff;
+	display: inline;
+	/*display:; */
+	/*float:;*/
+}
+p{
+	background: #ff00ff;
+	width: 200px;
+	height: 100px;
+}
